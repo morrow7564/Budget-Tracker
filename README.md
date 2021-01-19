@@ -12,7 +12,7 @@ AS AN avid traveller I WANT to be able to track my withdrawals and deposits with
 
 ### App screenshot
 
-![AppPhoto](public/icons/image.png)   
+![AppPhoto](public/icons/image.PNG)   
 
 ## Table of contents
 
