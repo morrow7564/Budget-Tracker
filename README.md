@@ -1,4 +1,4 @@
-# Homework 18 Progressive Budget: Online/Offline Budget Trackers
+#  Budget Tracker
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
