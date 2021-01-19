@@ -1,64 +1,45 @@
-# **Fitness Tracker**
-  ![GitHub license](https://img.shields.io/badge/license--blue.svg
- 
- 
-  ### Created by 
-  
-  Morrow7564
+# Homework 18 Progressive Budget: Online/Offline Budget Trackers
 
-  ## Description
- 
- With this application you will be able to track your withdrawals and deposits with or without a data/internet connection
- so that your account balance is accurate when your are traveling. Once you are back online your transactions will be posted to the database.
-  
-  ## Table of Contents
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-  * [Installation] 
+## Description 
 
-  * [Usage] 
-  
-  * [License] 
-  
-  * [Contributing] 
-  
-  * [Tests] 
+With this application you will be able to track your withdrawals and deposits with or without a data/internet connection so that your account balance is accurate when your are traveling. Once you are back online your transactions will be posted to the database.
 
-  *[Questions]
+## User Story
 
-  ## Installation
-  *Steps required to install project and how to get the development environment running:* 
-  
-  npm i
+AS AN avid traveller I WANT to be able to track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling
 
-  ## Technologies
-  *Instructions and examples for use*
+### App screenshot
 
-  MongoDB
-  Mongoose
-  Express
-  Node.js
-  PWA
-  
-  
+![AppPhoto](public/icons/image.png)   
 
-  ## License
-  *The License you used for the project*
- 
-  ![GitHub license](https://img.shields.io/badge/license--blue.svg
+## Table of contents
 
-  ## contributors
-  *If you are going to contribute it, you can follow these guidelines for how to do so*
-  
-  You can do anything 
+- [Description](#Description)
+- [Usage](#Usage)
+- [Licence](#Licence)
+- [Repository Link](#Repository)
+- [GitHub Info](#GitHub) 
 
-  ## Testing
-  *Tests for application and how to run them:*
-  
-  
+## Usage
 
-  ## Questions 
-  *For any questions, please contact me with the information below*
-   
-  Email: Morrow7564@gmail.com
-  GitHub: Morrow7564
+Go to [Budget App](https://budgettrack1.herokuapp.com/) 
+
+## Licence
+
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+
+## Repository
+
+- [Project Repo](https://github.com/morrow7564/Budget-Trackert)
+
+
+## GitHub
+
+- Christopher Morrow
+- [GitHub Profile](https://github.com/morrow7564)
+
+
 
